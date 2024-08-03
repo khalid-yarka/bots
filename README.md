@@ -27,7 +27,7 @@ A short description of the license under which your project is distributed.
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
-Maintainer - [Your Name](mailto:your-email@example.com)
+Maintainer - [dev](mailto:khalidyarka@gmail.com)
 
 ```bash
 # Example
