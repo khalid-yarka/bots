@@ -8,6 +8,10 @@ A brief description of what your project does and why it exists.
 - [Contributing](#contributing)
 - [License](#license)
 
+
+## Installation
+Instructions on how to install and set up your project.
+
 ## Installation
 
 Instructions on how to install and set up your project.
